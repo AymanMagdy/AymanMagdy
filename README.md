@@ -1,5 +1,4 @@
-## Hey, ouuan here! :wave: [![Codeforces Rating](https://cfrating.ihcr.top/?user=ouuan&style=flat-square)](https://codeforces.com/profile/ouuan)
-
+## Hey, Ayman here! :wave: :pc:
 <img align="right" alt="ouuan's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=AymanMagdy&show_icons=true">
 
 I'm Ayman Soliman, a DevOps/Backend Engineer from Cairo, Egypt.
