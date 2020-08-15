@@ -4,10 +4,10 @@
 I'm Ayman Soliman, a DevOps/Backend Engineer from Cairo, Egypt.
 
 -   :hammer_and_pick: I do Python for Devlopment and Scripting, Go for Development and for Kubernetes Services, and Ruby for Development.
+-   :package: I build softwares and I automate boring stuff.
 -   :airplane: I travel between Amazon Web Services and Google Cloud Platform regions. 
--   :ship: I ship softwares in Docker and I drive the Kubernetes Clusters on Prem and in the Cloud.
+-   :ship: I ship softwares in Docker and I drive the Kubernetes Clusters on Prem and on the Cloud.
 -   :penguin: I love to play with Linux penguin. 
--   :package: I build softwares and I automate boring stuff with Python and Bash Script.
 -   :seedling: Learning competitive programming.
 -   :man: Pronouns: he/him.
 
@@ -40,5 +40,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 ---
 ### Connect with me:
 
-<img align="left" alt="ayman-magdi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="ayman-magdi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+[<img align="left" alt="ayman-magdi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/ayman-magdi/
