@@ -40,6 +40,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 ---
 ### Connect with me:
 
-<img align="left" alt="ayman-magdi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="ayman-magdi | LinkedIn" width="22px" src="https://www.linkedin.com/in/ayman-magdi/" />
 
 [gmail]: aymansoliman883@gmail.com
