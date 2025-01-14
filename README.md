@@ -1,7 +1,7 @@
 ## Hey there, Ayman here! :wave: :rocket:
 <img align="right" alt="Ayman's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=AymanMagdy&show_icons=true">
 
-I'm Ayman Soliman, a DevOps/Backend Engineer from Cairo, Egypt.
+I'm Ayman Soliman, a DevOps/Backend Engineer in Boston, Massachusetts.
 
 -   :hammer_and_pick: I do Python for Devlopment and Scripting, Go for Development and for Kubernetes Services, and Ruby for Development.
 -   :package: I build softwares and I automate boring stuff.
